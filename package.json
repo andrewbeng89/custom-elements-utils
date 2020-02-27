@@ -1,0 +1,8 @@
+{
+  "name": "custom-elements-utils",
+  "version": "0.1.0",
+  "description": "Utilities for handling, and working with Custom Elements.",
+  "main": "index.js",
+  "author": "andrewbeng89@gmail.com",
+  "license": "MIT"
+}
